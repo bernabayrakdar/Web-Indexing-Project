@@ -1,5 +1,4 @@
 # Web-Indexing-Project
-# Web-Indexing-Project
 
 Ana Sayfa
 
